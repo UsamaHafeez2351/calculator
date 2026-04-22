@@ -1,0 +1,111 @@
+PRIVACY POLICY FOR CALCULATOR APP
+
+Last Updated: April 22, 2026
+
+1. INTRODUCTION
+
+Welcome to Calculator App. We are committed to protecting your privacy and ensuring you have a positive experience when using our calculator application.
+
+By using the Calculator App, you agree to the collection and use of information in accordance with this policy.
+
+2. INFORMATION WE COLLECT
+
+2.1 Personal Information
+We do NOT collect or store any personal information. We do not require you to create an account or provide any personal details to use the app.
+
+2.2 Calculation History
+Your calculation history is stored locally on your device only. We do not have access to or store this data on our servers.
+
+2.3 Voice Input
+When you use the voice input feature, audio is processed locally on your device using Android's speech recognition service. We do not record, store, or transmit your voice data to our servers.
+
+The voice recognition permission (RECORD_AUDIO) is used solely for the purpose of converting your spoken mathematical expressions into text for calculations. For example:
+- You can say "65 minus 4 percent" and it will calculate the result
+- You can say "9 times 5" and get the answer
+- All voice processing happens on your device through Android's system service
+- No audio is ever recorded, stored, or sent to our servers
+- You can deny this permission and still use all other calculator features
+
+2.4 Currency Exchange Rates
+When you use the currency converter feature, the app connects to a third-party API to fetch current exchange rates. No personal information is transmitted during this process.
+
+3. PERMISSIONS WE USE
+
+3.1 Microphone Access (RECORD_AUDIO)
+Purpose: To enable voice input for mathematical calculations only.
+
+How we use it:
+- Audio is captured only when you press the microphone button
+- Voice is processed instantly using Android's built-in speech-to-text service
+- The audio is converted to text (e.g., "nine plus two" becomes "9+2")
+- No audio recording is saved to device storage or our servers
+- Voice data is handled by Google's on-device speech recognition, not by us
+
+Your control:
+- You can deny this permission and continue using all calculator features
+- Voice input will simply be unavailable if permission is denied
+- Calculator, scientific mode, currency converter, EMI calculator, and all other features work without microphone access
+
+3.2 Internet Access (INTERNET)
+Purpose: To fetch real-time currency exchange rates for the currency converter feature only.
+
+How we use it:
+- The app only connects to currency exchange rate APIs when you open the currency converter
+- No personal data is transmitted
+- Requests are anonymous
+
+Your control:
+- All calculator features work offline except the currency converter
+- You can use the app completely offline for calculations
+
+4. HOW WE USE YOUR INFORMATION
+
+Since we don't collect personal information, we have nothing to use. The app functions entirely on your device:
+- Calculations are performed locally
+- History is stored locally on your device
+- Voice input is processed using Android's system services
+- Currency rates are fetched from public APIs without identifying you
+
+5. DATA STORAGE AND SECURITY
+
+- Local Storage Only: All your data (calculation history, settings) is stored exclusively on your device
+- No Cloud Backup: We do not backup your data to any cloud service or our servers
+- Data Deletion: You can clear your calculation history at any time using the "Clear History" button in the app, or by uninstalling the app
+
+
+6. CHILDREN'S PRIVACY
+
+Our app does not collect any personal information from anyone, including children under the age of 13. The app can be safely used by people of all ages.
+
+7. DATA SHARING AND DISCLOSURE
+
+We do not share, sell, or disclose any user data because we don't collect any personal information.
+
+The only external communication is:
+- Fetching currency exchange rates from public APIs (anonymous requests)
+- Voice input processed by Android's system service (handled by Google, not us)
+
+8. YOUR RIGHTS AND CHOICES
+
+- Deny Permissions: You can deny microphone access and still use all features except voice input
+- Clear History: Delete your calculation history at any time from within the app
+- Uninstall: Uninstalling the app removes all locally stored data
+- Offline Use: Most features work completely offline (except currency converter)
+
+9. CHANGES TO THIS PRIVACY POLICY
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+
+You are advised to review this Privacy Policy periodically for any changes.
+
+10. INTERNATIONAL USERS
+
+Our app is available worldwide. Since we don't collect personal information, international data transfer regulations (like GDPR) don't apply. All data stays on your device in your country.
+
+11. CONTACT US
+
+If you have any questions about this Privacy Policy, please contact us:
+
+Email: usamah2351@gmail.com
+Developer: Usama Hafeez
+App Name: Calculator
