@@ -1,12 +1,12 @@
-PRIVACY POLICY FOR CALCULATOR APP
+PRIVACY POLICY FOR CALCWIZ
 
-Last Updated: April 22, 2026
+Last Updated: July 27, 2026
 
 1. INTRODUCTION
 
-Welcome to Calculator App. We are committed to protecting your privacy and ensuring you have a positive experience when using our calculator application.
+Welcome to CalcWiz. We are committed to protecting your privacy and ensuring you have a positive experience when using our calculator application.
 
-By using the Calculator App, you agree to the collection and use of information in accordance with this policy.
+By using CalcWiz, you agree to the collection and use of information in accordance with this policy.
 
 2. INFORMATION WE COLLECT
 
@@ -26,7 +26,15 @@ The voice recognition permission (RECORD_AUDIO) is used solely for the purpose o
 - No audio is ever recorded, stored, or sent to our servers
 - You can deny this permission and still use all other calculator features
 
-2.4 Currency Exchange Rates
+2.4 Advertising Data
+Our app uses Google AdMob to display advertisements. AdMob may collect the following information:
+- Advertising ID: A unique, user-resettable ID for advertising provided by Android. This is used to show relevant ads.
+- Device Information: General device information such as device model and OS version for ad serving optimization.
+- Ad Interaction Data: Information about how you interact with ads (views, clicks).
+
+You can reset your Advertising ID or opt out of personalized ads in your device Settings > Google > Ads.
+
+2.5 Currency Exchange Rates
 When you use the currency converter feature, the app connects to a third-party API to fetch current exchange rates. No personal information is transmitted during this process.
 
 3. PERMISSIONS WE USE
@@ -44,27 +52,38 @@ How we use it:
 Your control:
 - You can deny this permission and continue using all calculator features
 - Voice input will simply be unavailable if permission is denied
-- Calculator, scientific mode, currency converter, EMI calculator, and all other features work without microphone access
+- Calculator, scientific mode, currency converter, and all other features work without microphone access
 
 3.2 Internet Access (INTERNET)
-Purpose: To fetch real-time currency exchange rates for the currency converter feature only.
+Purpose: To fetch real-time currency exchange rates and to serve advertisements.
 
 How we use it:
-- The app only connects to currency exchange rate APIs when you open the currency converter
-- No personal data is transmitted
-- Requests are anonymous
+- The app connects to currency exchange rate APIs when you use the currency converter
+- The app connects to Google AdMob servers to display advertisements
+- No personal data is transmitted in currency requests
 
 Your control:
-- All calculator features work offline except the currency converter
+- All calculator features work offline except the currency converter and ads
 - You can use the app completely offline for calculations
+
+3.3 Advertising ID (AD_ID)
+Purpose: Required by Google AdMob to serve relevant advertisements.
+
+How we use it:
+- The Advertising ID is used by AdMob to display ads
+- We do not use this ID for any other purpose
+
+Your control:
+- You can reset your Advertising ID or opt out of ad personalization in Android Settings > Google > Ads
 
 4. HOW WE USE YOUR INFORMATION
 
-Since we don't collect personal information, we have nothing to use. The app functions entirely on your device:
+Since we don't collect personal information directly, we have nothing to use. The app functions entirely on your device:
 - Calculations are performed locally
 - History is stored locally on your device
 - Voice input is processed using Android's system services
 - Currency rates are fetched from public APIs without identifying you
+- Ads are served by Google AdMob using your Advertising ID
 
 5. DATA STORAGE AND SECURITY
 
@@ -72,40 +91,50 @@ Since we don't collect personal information, we have nothing to use. The app fun
 - No Cloud Backup: We do not backup your data to any cloud service or our servers
 - Data Deletion: You can clear your calculation history at any time using the "Clear History" button in the app, or by uninstalling the app
 
+6. THIRD-PARTY SERVICES
 
-6. CHILDREN'S PRIVACY
+Our app uses the following third-party services:
+- Google AdMob: For displaying advertisements. AdMob may collect device identifiers and ad interaction data.
+- Android Speech Recognition: For voice input (processed by Google's on-device service)
+- Currency Exchange Rate API: For fetching real-time currency rates (no personal data transmitted)
 
-Our app does not collect any personal information from anyone, including children under the age of 13. The app can be safely used by people of all ages.
+These services have their own privacy policies:
+- Google Privacy Policy: https://policies.google.com/privacy
+- Google AdMob: https://policies.google.com/technologies/ads
 
-7. DATA SHARING AND DISCLOSURE
+7. CHILDREN'S PRIVACY
 
-We do not share, sell, or disclose any user data because we don't collect any personal information.
+Our app is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. The app contains advertisements served by Google AdMob which are not targeted at children.
 
-The only external communication is:
+8. DATA SHARING AND DISCLOSURE
+
+We do not share, sell, or disclose any user data directly. The only external communication is:
+- Google AdMob receives Advertising ID for ad serving purposes
 - Fetching currency exchange rates from public APIs (anonymous requests)
 - Voice input processed by Android's system service (handled by Google, not us)
 
-8. YOUR RIGHTS AND CHOICES
+9. YOUR RIGHTS AND CHOICES
 
 - Deny Permissions: You can deny microphone access and still use all features except voice input
+- Opt Out of Personalized Ads: Reset Advertising ID or opt out in Android Settings > Google > Ads
 - Clear History: Delete your calculation history at any time from within the app
 - Uninstall: Uninstalling the app removes all locally stored data
-- Offline Use: Most features work completely offline (except currency converter)
+- Offline Use: Most features work completely offline (except currency converter and ads)
 
-9. CHANGES TO THIS PRIVACY POLICY
+10. CHANGES TO THIS PRIVACY POLICY
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
 You are advised to review this Privacy Policy periodically for any changes.
 
-10. INTERNATIONAL USERS
+11. INTERNATIONAL USERS
 
-Our app is available worldwide. Since we don't collect personal information, international data transfer regulations (like GDPR) don't apply. All data stays on your device in your country.
+Our app is available worldwide. Ad serving is handled by Google AdMob according to their policies. All local data stays on your device in your country.
 
-11. CONTACT US
+12. CONTACT US
 
 If you have any questions about this Privacy Policy, please contact us:
 
 Email: usamah2351@gmail.com
 Developer: Usama Hafeez
-App Name: Calculator
+App Name: CalcWiz
