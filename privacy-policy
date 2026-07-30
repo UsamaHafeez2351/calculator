@@ -1,6 +1,6 @@
 PRIVACY POLICY FOR CALCWIZ
 
-Last Updated: July 27, 2026
+Last Updated: July 30, 2026
 
 1. INTRODUCTION
 
@@ -113,7 +113,14 @@ We do not share, sell, or disclose any user data directly. The only external com
 - Fetching currency exchange rates from public APIs (anonymous requests)
 - Voice input processed by Android's system service (handled by Google, not us)
 
-9. YOUR RIGHTS AND CHOICES
+9. REVOKE CONSENT
+
+If you previously gave consent for personalized advertising and wish to revoke it, you have the following options:
+- Reset Advertising ID: Go to your Android device Settings > Google > Ads > Reset advertising ID. This will revoke your consent for personalized ads.
+- Opt Out of Personalization: In Settings > Google > Ads, toggle "Opt out of Ads Personalization" to disable personalized ads.
+- Email Request: Contact us at usamah2351@gmail.com with subject "Revoke Ad Consent" and we will assist you.
+
+10. YOUR RIGHTS AND CHOICES
 
 - Deny Permissions: You can deny microphone access and still use all features except voice input
 - Opt Out of Personalized Ads: Reset Advertising ID or opt out in Android Settings > Google > Ads
@@ -121,17 +128,17 @@ We do not share, sell, or disclose any user data directly. The only external com
 - Uninstall: Uninstalling the app removes all locally stored data
 - Offline Use: Most features work completely offline (except currency converter and ads)
 
-10. CHANGES TO THIS PRIVACY POLICY
+11. CHANGES TO THIS PRIVACY POLICY
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
 You are advised to review this Privacy Policy periodically for any changes.
 
-11. INTERNATIONAL USERS
+12. INTERNATIONAL USERS
 
 Our app is available worldwide. Ad serving is handled by Google AdMob according to their policies. All local data stays on your device in your country.
 
-12. CONTACT US
+13. CONTACT US
 
 If you have any questions about this Privacy Policy, please contact us:
 
